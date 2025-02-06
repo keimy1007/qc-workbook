@@ -4,3 +4,9 @@ __pycache__
 Untitled*
 untitled*
 *~
+
+# キャッシュ
+.ipynb_checkpoints
+__pycache__
+*.pyc
+.DS_Store
